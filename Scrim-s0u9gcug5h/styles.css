@@ -1,0 +1,41 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-image: url(/Scrim-s0u9gcug5h/img/faded-office.png);
+    display: block;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ h1 {
+    font-size: 50px;
+    font-weight: bolder;
+    color: #020202;
+    margin-top: 30px;
+    margin-left: 80px;
+    
+}
+p {
+    font-size: 20px;
+    font-weight: bold;
+    color: #020202;
+    margin-left: 80px;
+    
+}
+.underline {
+    border-bottom: 5px solid #0ea5e9;
+}
+
+.btn {
+    margin-left: 80px;
+    font-size: 20px;
+    padding: 15px 30px;
+    font-family: inherit;
+    background-color: #0ea5e9;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+
+    margin-top: 20px;
+}
